@@ -36,4 +36,4 @@ This project explores the Delaney solubility dataset using molecular descriptors
 ---
 
 **Conclusion:**  
-For the Delaney solubility dataset problem, a simple Linear Regression model is sufficient to capture the underlying trends in the data. Random Forest did not provide a significant improvement in performance, making the linear model the preferred choice for its simplicity and interpretability.
+For the Delaney solubility dataset, a simple Linear Regression model is sufficient to capture the underlying trends in the data. Random Forest did not provide a significant improvement in performance, making the linear model the preferred choice for its simplicity and interpretability.
