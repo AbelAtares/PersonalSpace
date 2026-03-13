@@ -7,7 +7,7 @@ This project explores the Delaney solubility dataset using molecular descriptors
 ## Linear Regression Model
 
 ### 1. Loading and Preparing Data
-- The dataset was loaded from a repository.  
+- The dataset was loaded from a public repository.  
 - We created the variable `X` to store the features used for predicting the target variable.  
 - The target variable `Y` contains the solubility values (`logS`).  
 - Data was split into training and test sets, with **80% for training** and **20% for testing**.
